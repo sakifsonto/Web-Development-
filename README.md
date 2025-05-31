@@ -14,40 +14,10 @@ A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI
 - 🔄 **React Query** - Data fetching and state management
 - 🧪 **Form Handling** - React Hook Form with Zod validation
 
-## Getting Started
 
-### Prerequisites
-
-- Node.js 18+ 
-- npm or yarn or pnpm
-
-### Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/react-template-project.git
-cd react-template-project
 ```
 
-2. Install dependencies:
-```bash
-npm install
-# or
-yarn
-# or
-pnpm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-4. Open your browser and visit `http://localhost:5173`
+ Open your browser and visit `http://localhost:5173`
 
 ## Project Structure
 
@@ -76,14 +46,6 @@ react-template-project/
 - **Pages**: Create new pages in the `src/pages` directory
 - **Routing**: Update routes in `src/App.tsx`
 
-## Building for Production
+![web](https://github.com/user-attachments/assets/d1ebbdc0-db4f-4839-a40a-c34f90bc9d7f)
+![web2](https://github.com/user-attachments/assets/45b87faa-3a15-451b-b23e-f4bb0ec67258)
 
-```bash
-npm run build
-# or
-yarn build
-# or
-pnpm build
-```
-
-The built files will be in the `dist` directory, ready to be deployed.
