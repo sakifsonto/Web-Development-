@@ -1,6 +1,7 @@
 # Welcome to my weather web project
 
 A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI components. This template provides a solid foundation for building web applications with best practices in mind.
+
 ![web](https://github.com/user-attachments/assets/4e90d65b-9f31-4a30-a6f2-47e1e332f21b)
 ![web2](https://github.com/user-attachments/assets/4fa35159-58e5-4e0d-aec7-fac6e01a9592)
 
